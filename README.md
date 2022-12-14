@@ -27,9 +27,9 @@
 ### Geospatial
 - [Natural Earth](https://www.naturalearthdata.com/)
 
-### Data visualization
+## Data visualization
 
-#### Lists
+### Lists
 - [Awesome dataviz](https://github.com/javierluraschi/awesome-dataviz)
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research)
 - [Awesome interactive journalism](https://github.com/wbkd/awesome-interactive-journalism)
@@ -38,13 +38,13 @@
 - [GIJN's investigative reporting resource list](https://helpdesk.gijn.org/support/solutions/articles/14000036505-data-journalism)
 - [GitHub Open Journalism collection](https://github.com/collections/open-journalism)
 
-#### People
+### People
 - [OpenNewsLabs People in Newsrooms](https://github.com/OpenNewsLabs/news-graphics-team)
 
-#### Chart ideas
+### Chart ideas
 - [Cool Infographics reference guide collection](https://coolinfographics.com/dataviz-guides)
 
-#### Showcases
+### Showcases
 - [Dataviz Inspiration](https://www.dataviz-inspiration.com/)
 - [Information is Beautiful awards](https://www.informationisbeautifulawards.com/showcase?action=index&award=2022&controller=showcase&page=1&pcategory=short-list&type=awards)
 - [Flowing data](https://flowingdata.com/tag/best-of/)
@@ -54,13 +54,13 @@
 - [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Beautiful Public Data](https://www.beautifulpublicdata.com/)
 
-#### Blogs / reading
+### Blogs / reading
 - [Investigate.ai](https://investigate.ai/)
 - [Alberto Cairo's blog](http://www.thefunctionalart.com/)
 - [Nightingale](https://nightingaledvs.com/)
 - [DataJournalism.com](https://datajournalism.com/)
 
-#### Newsletters
+### Newsletters
 - [Jeremy Singer-Vine's Data Is Plural](https://www.data-is-plural.com/)
 - [Quantum of Sollazzo](https://puntofisso.net/newsletter/)
 - [Warning: Graphic Content](https://medium.com/warning-graphic-content)
@@ -69,7 +69,7 @@
 - [Data Curious](https://datacurious.substack.com/)
 - [Economist Off the Charts](https://www.economist.com/newsletters/off-the-charts)
 
-#### Open source dataviz
+### Open source dataviz
 
 - [Financial Times](https://github.com/ft-interactive)
 - [BuzzFeed](https://github.com/BuzzFeedNews)
@@ -97,27 +97,26 @@
 - [DataKind](https://github.com/datakind)
 - [Google Trends data](https://github.com/GoogleTrends/data)
 
+## Data science
 
-### Data science
-
-#### Lists
+### Lists
 - [Awesome data science](https://github.com/academic/awesome-datascience)
 - [Awesome data engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Awesome big data](https://github.com/newTendermint/awesome-bigdata)
 - [Satellite imagery](https://github.com/robmarkcole/satellite-image-deep-learning)
 
-### Creative coding
+## Creative coding
 
-#### Lists
+### Lists
 - [Awesome creative coding](https://github.com/terkelg/awesome-creative-coding)
 
-### APIs
+## APIs
 
-#### Lists
+### Lists
 - [ProgrammableWeb](https://www.programmableweb.com/category/open-data/api)
 - [Public APIs](https://github.com/public-apis/public-apis)
 
-#### conferences
+### conferences
 - [IEEVIS](https://www.ieeevis.org/) ([videos](https://www.youtube.com/@IEEEVisualizationConference/videos))
 - [Outlier](https://outlierconf.com/) ([videos](https://www.youtube.com/playlist?list=PLAm5TIX-yz7LJKkE-hzEWiIJpAFPmB19A))
 - [EuroViz](https://conferences.eg.org/eurovis2022/) ([videos](https://www.youtube.com/@user-cs2ob1mu3u))
